@@ -38,7 +38,7 @@ This project focuses on reusable widgets, responsive design, and a scalable stru
 
 ---
 
-[<img src="https://drive.google.com/file/d/1X0gipgAJj2ERCc8Ns_9W3lnrcER-xhqx/view?usp=sharing" width="220" />](https://drive.google.com/file/d/1AdWezwNmrDJXH-YXNBuUIDu0rCZzH3aM/view?usp=drive_link)
+[<img src=("https://drive.google.com/file/d/1X0gipgAJj2ERCc8Ns_9W3lnrcER-xhqx/view?usp=sharing") width="220" />](https://drive.google.com/file/d/1AdWezwNmrDJXH-YXNBuUIDu0rCZzH3aM/view?usp=drive_link)
 
 
 ---
@@ -49,7 +49,7 @@ This project focuses on reusable widgets, responsive design, and a scalable stru
 
 <p float="left">
   [<img src="(https://drive.google.com/file/d/1X0gipgAJj2ERCc8Ns_9W3lnrcER-xhqx/view?usp=drive_link)" width="220" />]
-  <img src="(https://drive.google.com/file/d/1lw2TNOjWvyIslj666ZVtN8Tgt1wFYUOh/view?usp=drive_link)" width="220" />
-  <img src="(https://drive.google.com/file/d/1sXpxuVhkjiKb65rPl68q_DxsjIliqy3Q/view?usp=drive_link)" width="220" />
+  [<img src="(https://drive.google.com/file/d/1lw2TNOjWvyIslj666ZVtN8Tgt1wFYUOh/view?usp=drive_link)" width="220" />]
+  [<img src="(https://drive.google.com/file/d/1sXpxuVhkjiKb65rPl68q_DxsjIliqy3Q/view?usp=drive_link)" width="220" />]
 </p>
 
