@@ -38,7 +38,7 @@ This project focuses on reusable widgets, responsive design, and a scalable stru
 
 ---
 
-[<img src="(https://drive.google.com/file/d/1X0gipgAJj2ERCc8Ns_9W3lnrcER-xhqx/view?usp=sharing") width="220" />](https://drive.google.com/file/d/1AdWezwNmrDJXH-YXNBuUIDu0rCZzH3aM/view?usp=drive_link)
+[<img src="https://drive.google.com/file/d/1X0gipgAJj2ERCc8Ns_9W3lnrcER-xhqx/view?usp=sharing" width="220" />](https://drive.google.com/file/d/1AdWezwNmrDJXH-YXNBuUIDu0rCZzH3aM/view?usp=drive_link)
 
 
 ---
