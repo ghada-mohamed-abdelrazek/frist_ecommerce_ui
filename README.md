@@ -1,11 +1,11 @@
-# 🛍️ Flutter E-commerce UI
+#  Flutter E-commerce UI
 
 A modern and clean **E-commerce mobile application UI** built using **Flutter**.  
 This project focuses on reusable widgets, responsive design, and a scalable structure ready for backend/API integration.
 
 ---
 
-## ✨ Features
+##  Features
 - Home screen with product listing
 - Categories browsing
 - Product details screen
@@ -19,7 +19,7 @@ This project focuses on reusable widgets, responsive design, and a scalable stru
 
 ---
 
-## 📱 Screens
+## Screens
 - Home
 - Categories
 - Product Details
@@ -29,24 +29,19 @@ This project focuses on reusable widgets, responsive design, and a scalable stru
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 - **Flutter**
 - **Dart**
-- **BLoC / Cubit**
-- **Dio** (API ready)
-- **SVG / Lottie** (if used)
+- **SVG**
 
 ---
 
-[<img src=("https://drive.google.com/file/d/1X0gipgAJj2ERCc8Ns_9W3lnrcER-xhqx/view?usp=sharing") width="220" />](https://drive.google.com/file/d/1AdWezwNmrDJXH-YXNBuUIDu0rCZzH3aM/view?usp=drive_link)
+[("https://drive.google.com/file/d/1X0gipgAJj2ERCc8Ns_9W3lnrcER-xhqx/view?usp=sharing")](https://drive.google.com/file/d/1AdWezwNmrDJXH-YXNBuUIDu0rCZzH3aM/view?usp=drive_link)
 
 
 ---
 
 ## 📸 Screenshots
-
-> Put your screenshots inside: `assets/screenshots/`
-
 <p float="left">
   [<img src="(https://drive.google.com/file/d/1X0gipgAJj2ERCc8Ns_9W3lnrcER-xhqx/view?usp=drive_link)" width="220" />]
   [<img src="(https://drive.google.com/file/d/1lw2TNOjWvyIslj666ZVtN8Tgt1wFYUOh/view?usp=drive_link)" width="220" />]
