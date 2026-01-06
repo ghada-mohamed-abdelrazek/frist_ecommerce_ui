@@ -36,8 +36,7 @@ This project focuses on reusable widgets, responsive design, and a scalable stru
 
 ---
 
-  <img src="assets/screen shot/splash.jpeg" width="220" />
-(https://drive.google.com/file/d/1AdWezwNmrDJXH-YXNBuUIDu0rCZzH3aM/view?usp=drive_link)
+  <img src="assets/screen shot/splash.jpeg" width="220" />(https://drive.google.com/file/d/1AdWezwNmrDJXH-YXNBuUIDu0rCZzH3aM/view?usp=drive_link)
 
 
 ---
