@@ -1,16 +1,50 @@
-# fullter_project
+#  Flutter E-commerce UI
 
-A new Flutter project.
+A modern and clean **E-commerce mobile application UI** built using **Flutter**.  
+This project focuses on reusable widgets, responsive design, and a scalable structure ready for backend/API integration.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
+- Home screen with product listing
+- Categories browsing
+- Product details screen
+- Cart screen with quantity control & total price
+- Checkout UI
+- Clean and consistent UI/UX
+- Reusable components and widgets
+- Responsive layout for different screen sizes
+- State management using BLoC/Cubit (if applied)
+- API-ready architecture
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screens
+- Home
+- Categories
+- Product Details
+- Cart
+- Checkout
+- (Optional) Login / Register
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+##  Tech Stack
+- **Flutter**
+- **Dart**
+- **SVG**
+
+---
+
+[("https://drive.google.com/file/d/1X0gipgAJj2ERCc8Ns_9W3lnrcER-xhqx/view?usp=sharing")](https://drive.google.com/file/d/1AdWezwNmrDJXH-YXNBuUIDu0rCZzH3aM/view?usp=drive_link)
+
+
+---
+
+## 📸 Screenshots
+<p float="left">
+  [<img src="(https://drive.google.com/file/d/1X0gipgAJj2ERCc8Ns_9W3lnrcER-xhqx/view?usp=drive_link)" width="220" />]
+  [<img src="(https://drive.google.com/file/d/1lw2TNOjWvyIslj666ZVtN8Tgt1wFYUOh/view?usp=drive_link)" width="220" />]
+  [<img src="(https://drive.google.com/file/d/1sXpxuVhkjiKb65rPl68q_DxsjIliqy3Q/view?usp=drive_link)" width="220" />]
+</p>
+
