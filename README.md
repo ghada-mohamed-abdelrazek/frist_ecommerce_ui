@@ -44,8 +44,11 @@ This project focuses on reusable widgets, responsive design, and a scalable stru
 
 ## 📸 Screenshots
 <p float="left">
-  [<img src="assets/screen shot/splash.jpeg" width="220" />]
-  [<img src="(https://drive.google.com/file/d/1lw2TNOjWvyIslj666ZVtN8Tgt1wFYUOh/view?usp=drive_link)" width="220" />]
-  [<img src="(https://drive.google.com/file/d/1sXpxuVhkjiKb65rPl68q_DxsjIliqy3Q/view?usp=drive_link)" width="220" />]
+  <img src="assets/screen shot/splash.jpeg" width="220" />
+  <img src="assets/screen shot/welcome.jpeg" width="220" />
+  <img src="assets/screen shot/signup.jpeg" width="220" />
+  <img src="assets/screen shot/login.jpeg" width="220" />
+  <img src="assets/screen shot/profile.jpeg" width="220" />
+
 </p>
 
